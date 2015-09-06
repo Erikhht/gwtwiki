@@ -1,8 +1,8 @@
 The  Java Wikipedia API (Bliki engine) is a parser library for converting Wikipedia wikitext notation to HTML.
 
->>> **[the Java Wikipedia API Sources has moved to GIT on Bitbucket.org](https://bitbucket.org/axelclk/info.bliki.wiki/)** <<<
+**[the Java Wikipedia API Sources has moved to GIT on Bitbucket.org](https://bitbucket.org/axelclk/info.bliki.wiki/)**
 
->>> **[try the online converter on Google App Engine](http://w-i-k-i.appspot.com/)** <<<
+~~**[try the online converter on Google App Engine](http://w-i-k-i.appspot.com/)**~~
 
 Features:
   * renders [Mediawiki/Wikipedia wiki syntax to HTML](Mediawiki2HTML.md). It supports:
@@ -25,4 +25,4 @@ Features:
 <a href='http://flattr.com/thing/689794/Java-Wikipedia-API'>
 <img src='http://api.flattr.com/button/flattr-badge-large.png' alt='Flattr this' border='0' title='Flattr this' /></a>
 
-&lt;wiki:gadget url="http://www.ohloh.net/p/62334/widgets/project\_basic\_stats.xml" height="250"  border="1" /&gt;
+[Statistics on openhub.net](https://www.openhub.net/p/gwtwiki/)
