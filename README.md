@@ -5,7 +5,7 @@ The  Java Wikipedia API (Bliki engine) is a parser library for converting Wikipe
 
 **[the Java Wikipedia API Sources has moved to GIT on Bitbucket.org](https://bitbucket.org/axelclk/info.bliki.wiki/)**
 
-~~[try the online converter on Google App Engine](http://w-i-k-i.appspot.com/)~~
+~~**[try the online converter on Google App Engine](http://w-i-k-i.appspot.com/)**~~
 
 ##Features:
   * renders [Mediawiki/Wikipedia wiki syntax to HTML](Mediawiki2HTML.md). It supports:
